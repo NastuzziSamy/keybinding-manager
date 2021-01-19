@@ -1,0 +1,9 @@
+{
+  "name": "Keybinding Manager",
+  "description": "Define workspace keybindings, window keybindings...",
+  "uuid": "keybinding-manager@nastuzzisamy.github.com",
+  "settings-schema": "org.gnome.shell.extensions.keybinding-manager",
+  "shell-version": [
+    "3.38"
+  ]
+}
