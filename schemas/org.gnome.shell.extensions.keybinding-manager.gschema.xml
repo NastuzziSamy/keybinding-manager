@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.keybinding-manager"
+    path="/org/gnome/shell/extensions/keybinding-manager/">
+    
+    <key type="as" name="assign-app-automove">
+      <default><![CDATA[['<Super><Shift>A']]]></default>
+      <summary>Assign app to workspace</summary>
+      <description>
+        Assign the focused app to its current workspace
+      </description>
+    </key>
+    
+  </schema>
+</schemalist>
