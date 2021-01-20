@@ -11,5 +11,13 @@
       </description>
     </key>
     
+    <key type="as" name="remove-app-automove">
+      <default><![CDATA[['<Super><Shift>U']]]></default>
+      <summary>Remove app to workspace</summary>
+      <description>
+        Remove the focused app of auto move apps
+      </description>
+    </key>
+    
   </schema>
 </schemalist>
